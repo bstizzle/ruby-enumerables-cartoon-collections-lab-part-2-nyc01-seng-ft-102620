@@ -30,5 +30,6 @@ def find_valid_calls(planeteer_calls)
     while count < valid_calls.length do 
       element == valid_calls[count]
       count += 1 
+    end 
   end 
 end
